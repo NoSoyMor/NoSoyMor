@@ -13,7 +13,7 @@ Ahora mismo, soy un Técnico de ASIR en proceso.
 Así para añadir, también tengo algún estudio sanitario.
 
 # *PROYECTOS* 
-[![imagen](/assets/C:\Users\CarMo\OneDrive\Escritorio) 
+[![imagen](/assets/C:\Users\CarMo\OneDrive\Escritorio)] 
 
 
 
