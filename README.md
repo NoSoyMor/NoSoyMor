@@ -13,7 +13,7 @@ Ahora mismo, soy un Técnico de ASIR en proceso.
 Así para añadir, también tengo algún estudio sanitario.
 
 # *PROYECTOS* 
-!(/escritorio/12366724.png)
+!(/assets/12366724.png)
 
 
 
