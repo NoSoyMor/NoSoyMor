@@ -6,8 +6,15 @@
 Hola! Me llamo Carlos, encantado!
 
 # *SOBRE MÍ🙃*
-Me llamo Carlos Morgal, y ahora mismo soy estudiante de ASIR de 2º año.
-Me gustan los 
+Tengo 25 años, vivo en España, y soy un aficionado de los videojuegos y de los viajes. 
+
+# *ESTUDIOS 😰*
+Ahora mismo, soy un Técnico de ASIR en proceso.
+Así para añadir, también tengo algún estudio sanitario.
+
+# *PROYECTOS* 
+
+
 
 
 <!--
